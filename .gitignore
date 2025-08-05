@@ -1,0 +1,14 @@
+# Obsidian plugins
+.obsidian
+
+# IDE settings
+.idea
+
+# IDE VS-Code
+.vscode
+
+# Mac OS
+.DS_Store
+
+# windows
+Thumbs.db
