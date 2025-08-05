@@ -1,11 +1,11 @@
 # Symfony Buch Version 7.x in Deutsch 
-## Optimiert für [Obsidian](https://obsidian.md/) 
+## Optimiert für: [https://obsidian.md](https://obsidian.md) 
 
 ---
 
 ### Prozess in Bearbeitung: 
 
-- Buch-Lizens: [Lizenz](LICENSE)
+- Buch-Lizens: [Lizenztext](LICENSE)
 - Ausnahmslos für den persönlichen, privaten Gebrauch bestimmt.
 
 
